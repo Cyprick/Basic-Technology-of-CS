@@ -62,7 +62,8 @@ C-r(撤销被撤销的命令)
 
 > 提示
 
-1）编辑vimrc保存对vim的偏好          
+1）编辑vimrc保存对vim的偏好  
+
 2）输入 :set xxx 可以设置 xxx 选项。一些有用的选项如下：
         'ic' 'ignorecase'       查找时忽略字母大小写
         'is' 'incsearch'        查找短语时显示部分匹配
