@@ -57,17 +57,17 @@ C-r(撤销被撤销的命令)
 
 > 冷门命令 
 
-1）c(change)
+1）c(change)  
+
 2）如果光标当前位置是括号(、)、[、]、{、}，按 % 会将光标移动到配对的括号上
 
 > 提示
 
 1）编辑vimrc保存对vim的偏好  
-2) 手册 vimtutor
-2）输入 :set xxx 可以设置 xxx 选项。一些有用的选项如下：
+2) 手册 vimtutor  
+3）输入 :set xxx 可以设置 xxx 选项。一些有用的选项如下：
         'ic' 'ignorecase'       查找时忽略字母大小写
         'is' 'incsearch'        查找短语时显示部分匹配
         'hls' 'hlsearch'        高亮显示所有的匹配短语
      选项名可以用完整版本，也可以用缩略版本。
-
-3）在选项前加上 no 可以关闭选项：  :set noic
+4）在选项前加上 no 可以关闭选项：  :set noic
