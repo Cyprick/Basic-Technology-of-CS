@@ -32,3 +32,5 @@ eg:
 
 每30秒钟刷新当前页面:
 > <meta http-equiv="refresh" content="30">
+
+2）HTML CSS负责排版 Javascript
